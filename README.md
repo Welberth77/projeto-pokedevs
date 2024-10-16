@@ -1,6 +1,6 @@
 # Projeto-pokedevs
 
-O Pokedev é um site interativo com temática de Pokémon, projetado para oferecer uma experiência de navegação divertida e informativa para os fãs da série. O projeto permite que os usuários explorem informações sobre Pokémon, interajam com conteúdos e descubram recursos relacionados.
+O Pokedev é um site interativo com temática de Pokémon, projetado para oferecer uma experiência de navegação divertida e informativa. O projeto permite que os usuários explorem informações sobre os Pokedevs, interajam com conteúdos e descubram recursos relacionados.
 
 ## Tecnologias Utilizadas:
 ### Frontend:
